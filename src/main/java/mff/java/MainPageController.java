@@ -27,7 +27,9 @@ import java.util.List;
 import java.util.ResourceBundle;
 
 public class MainPageController implements Initializable {
-
+    /*
+    Ny ændring
+     */
     /**
      * Task repository
      */
